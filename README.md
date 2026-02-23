@@ -1,6 +1,6 @@
 # melikechan's [TorchLeet](https://github.com/Exorust/TorchLeet) solutions
 
-[!WARNING] This repository only contains my solutions, which are _usually_ identical to the solutions in the [original repository](https://github.com/Exorust/TorchLeet).
+> [!WARNING] This repository only contains my solutions, which are _usually_ identical to the solutions in the [original repository](https://github.com/Exorust/TorchLeet).
 
 ## Table of Contents
 
