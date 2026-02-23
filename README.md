@@ -19,10 +19,10 @@
 1. [Implement linear regression](torch/basic/linear-regression.ipynb) ✅
 2. [Write a custom Dataset and Dataloader to load from a CSV file](torch/basic/custom-dataset/custom-dataset.ipynb) ✅
 3. [Write a custom activation function (Simple)](torch/basic/custom-activation.ipynb) ✅
-4. [Implement Custom Loss Function (Huber Loss)](torch/basic/custom-loss.ipynb)
-5. [Implement a Deep Neural Network](torch/basic/custom-dnn.ipynb)
+4. [Implement Custom Loss Function (Huber Loss)](torch/basic/custom-loss.ipynb) ✅
+5. [Implement a Deep Neural Network](torch/basic/custom-dnn.ipynb) ✅
 6. [Visualize Training Progress with TensorBoard in PyTorch](torch/basic/tensorboard.ipynb)
-7. [Save and Load Your PyTorch Model](torch/basic/save_model.ipynb)
+7. [Save and Load Your PyTorch Model](torch/basic/save-model/save-model.ipynb) ✅
 8. [Implement Softmax function from scratch](torch/basic/softmax.ipynb)
 
 ---
