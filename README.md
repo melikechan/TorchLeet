@@ -21,9 +21,9 @@
 3. [Write a custom activation function (Simple)](torch/basic/custom-activation.ipynb) ✅
 4. [Implement Custom Loss Function (Huber Loss)](torch/basic/custom-loss.ipynb) ✅
 5. [Implement a Deep Neural Network](torch/basic/custom-dnn.ipynb) ✅
-6. [Visualize Training Progress with TensorBoard in PyTorch](torch/basic/tensorboard.ipynb)
+6. [Visualize Training Progress with TensorBoard in PyTorch](torch/basic/tensorboard/tensorboard.ipynb) ✅
 7. [Save and Load Your PyTorch Model](torch/basic/save-model/save-model.ipynb) ✅
-8. [Implement Softmax function from scratch](torch/basic/softmax.ipynb)
+8. [Implement Softmax function from scratch](torch/basic/softmax.ipynb) ✅
 
 ---
 
