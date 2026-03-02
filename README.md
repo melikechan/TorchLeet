@@ -29,13 +29,13 @@
 
 ### 🟢Easy
 
-1. [Implement a CNN on CIFAR-10](torch/easy/cnn.ipynb) ✅
-2. [Implement an RNN from Scratch](torch/easy/rnn.ipynb)
-3. [Use `torchvision.transforms` to apply data augmentation](torch/easy/augmentation.ipynb) ✅
-4. [Add a benchmark to your PyTorch code](torch/easy/benchmark.ipynb)
-5. [Train an autoencoder for anomaly detection](torch/easy/autoencoder.ipynb)
-6. [Quantize your language model](torch/easy/quantize-language-model.ipynb)
-7. [Implement Mixed Precision Training using torch.cuda.amp](torch/easy/cuda-amp.ipynb)
+1. [Implement a CNN on CIFAR-10](torch/easy/cnn/cnn.ipynb) ✅
+2. [Implement an RNN from Scratch](torch/easy/rnn.ipynb) ✅
+3. [Use `torchvision.transforms` to apply data augmentation](torch/easy/augmentation/augmentation.ipynb) ✅
+4. [Add a benchmark to your PyTorch code](torch/easy/benchmark/benchmark.ipynb) ✅
+5. [Train an autoencoder for anomaly detection](torch/easy/autoencoder/autoencoder.ipynb) ✅
+6. [Quantize your language model](torch/easy/quantize-lm/quantize-lm.ipynb) ✅
+7. [Implement Mixed Precision Training using torch.cuda.amp](torch/easy/cuda-amp.ipynb) ✅
 
 ---
 
@@ -60,7 +60,7 @@
 5. [Write a Transformer](torch/hard/transformer.ipynb)
 6. [Write a GAN](torch/hard/gan.ipynb)
 7. [Write Sequence-to-Sequence with Attention](torch/hard/seq2seq-with-attention.ipynb)
-8. [Enable distributed training in pytorch (DistributedDataParallel)]
+8. [Enable distributed training in PyTorch (DistributedDataParallel)]
 9. [Work with Sparse Tensors]
 10. [Add GradCam/SHAP to explain the model.](torch/hard/xai.ipynb)
 11. Linear Probe on CLIP Features
