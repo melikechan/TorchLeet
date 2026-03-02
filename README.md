@@ -100,6 +100,12 @@
 24. Chunk Textual Data for Dense Passage Retrieval
 25. Implement Large scale Training => 5D Parallelism
 
+## TODOs
+
+- [ ] Fix problem statements.
+- [ ] Improve code consistency. (training loops, model definitions, etc.)
+- [ ] Documentation. 
+
 ## Contribution, Authors, etc
 
 See the [original repository](https://github.com/Exorust/TorchLeet).
