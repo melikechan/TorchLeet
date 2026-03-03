@@ -104,7 +104,7 @@
 
 - [ ] Fix problem statements.
 - [ ] Improve code consistency. (training loops, model definitions, etc.)
-- [ ] Documentation. 
+- [ ] Documentation.
 
 ## Contribution, Authors, etc
 
